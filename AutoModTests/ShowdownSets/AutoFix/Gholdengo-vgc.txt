@@ -1,0 +1,9 @@
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+EVs: 32 HP / 5 Def / 17 SpA / 4 SpD / 8 Spe
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
