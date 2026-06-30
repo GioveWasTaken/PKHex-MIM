@@ -80,7 +80,7 @@ This command is intentionally selected-only. Use Make It Mine for whole teams.
 
 ## Building
 
-PKHeX-MIM targets .NET 10 and is built against the local PKHeX source in this workspace.
+PKHeX-MIM targets .NET 10. For the development layout used here, keep the PKHeX source and PKHeX-MIM source as sibling folders so the project references can resolve the matching PKHeX.Core build.
 
 Run the focused tests:
 
